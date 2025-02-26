@@ -21,7 +21,15 @@ const DashboardHeader = ({
     <header className="dashboard-header">
       <div className="logo-container">
         <h1>Optify Dashboard</h1>
-        <p className="subtitle">We don't care about your kids worker 17</p>
+        <p className="subtitle">Garment Production Optimization</p>
+        <a 
+          href="https://github.com/rishabhrajphx/ai-slavery.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="github-link"
+        >
+          Contribute on GitHub
+        </a>
       </div>
       
       <div className="controls">
