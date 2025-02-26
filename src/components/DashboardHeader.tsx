@@ -21,7 +21,7 @@ const DashboardHeader = ({
     <header className="dashboard-header">
       <div className="logo-container">
         <h1>Optify Dashboard</h1>
-        <p className="subtitle">Garment Production Optimization</p>
+        <p className="subtitle">Wokrer 17 who?</p>
         <a 
           href="https://github.com/rishabhrajphx/ai-slavery.com"
           target="_blank"
